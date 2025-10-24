@@ -1,7 +1,8 @@
 // LeaveMeAlone Games. All rights reserved.
 
+#include "LMABaseWeapon.h"
 #include "GameFramework/Character.h"
-#include "Core/Weapons/LMABaseWeapon.h"
+//#include "Core/Weapons/LMABaseWeapon.h"
 
 // Sets default values
 ALMABaseWeapon::ALMABaseWeapon()

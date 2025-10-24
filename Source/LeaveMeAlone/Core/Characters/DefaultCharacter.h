@@ -109,7 +109,7 @@ private:
 
 private:
 	float YRotation = -75.0f;
-	float DefaultArmLength = 2000.0f;
+	float DefaultArmLength = 1400.0f;
 	float FOV = 55.0f;
 	float CurrentZoom;
 	float Stamina;
